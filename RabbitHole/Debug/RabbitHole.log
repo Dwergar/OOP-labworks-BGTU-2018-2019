@@ -1,0 +1,12 @@
+﻿  RabbitHole.cpp
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "myfile"
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(19): error C2297: %: недопустимо, правый оператор имеет тип "double"
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(51): error C2065: myfile: необъявленный идентификатор
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(61): error C2065: myfile: необъявленный идентификатор
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(61): error C2228: выражение слева от ".open" должно представлять класс, структуру или объединение
+  d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(61): note: тип: unknown-type
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(86): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(91): error C2065: myfile: необъявленный идентификатор
+d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(91): error C2228: выражение слева от ".close" должно представлять класс, структуру или объединение
+  d:\lab_oaip\rabbithole\rabbithole\rabbithole.cpp(91): note: тип: unknown-type
